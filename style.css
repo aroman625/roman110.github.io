@@ -1,0 +1,53 @@
+	<!-- this is Andro's intro to HTML and tags -->
+	<style>
+	
+	/*Heading 1 styles*/
+	
+	h1 {color: orange;}
+	
+	/* Paragraph styles */
+	p {
+	color:orange;
+	font-weight: 1000;
+	text-decoration: overline;
+	border: solid 10px purple;
+	margin: 50px;
+	}
+	
+	/*Anchor Styles*/
+	a {
+	color: red;
+	padding: 50px;
+	}
+	</style>
+	
+.para_1_style {
+	color: crimson;
+	font-size:36px;
+	
+}
+
+.nav{
+	
+}
+
+.article{
+	float: left;
+	min-width: 200px;
+	min-height: 200px;
+}
+
+.section{
+
+}
+
+.aside{
+	float: left;
+	min-width: 200px;
+	min-height: 300px;
+}
+
+.footer{
+	
+}
+	
